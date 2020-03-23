@@ -1,9 +1,18 @@
 # Proposta Histórico Fatura
 
+Primeiramente obrigado por estar aqui! E querer trabalhar no Itaú Unibanco! 
+
+Esse é nosso primeiro desfio onde irmos avaliar sua lógica de programação e conhecimentos em Javascript. 
+O método de avaliação é simples, tendo seu código em mãos iremos validar se você construiu o projeto atendendo ao cenário proposto e os requisitos.
+
+Boa sorte!
+
+### Cenário Proposto
+
 _Neste projeto temos uma página estática em html, que mostra o histótico de lançamentos cartão de um cliente, de forma desorganizada._
 _A necessidade do nosso projeto é criar um consolidado de gastos por mês que fique facilmente visível para o usuário nesta página._
 
-### Pré requisitos
+### Requisitos
 
 * A lógica de consolidação dos meses deve ser feita em Javascript.
 * Essa logica deve ser executada no carregamento da página gerando uma tabela *mês X total gasto*.
