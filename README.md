@@ -1,7 +1,7 @@
 # Proposta Histórico Fatura
 
-_Neste projeto temos uma página estática em html que mostra o histótico de lançamentod de um cartão de um cliente de forma desorganizada._
-_A necessidade de nosso projeto é criar um consolidado por mês que fique facilmente visível para o usuário nesta página_
+_Neste projeto temos uma página estática em html, que mostra o histótico de lançamentos cartão de um cliente, de forma desorganizada._
+_A necessidade do nosso projeto é criar um consolidado de gastos por mês que fique facilmente visível para o usuário nesta página._
 
 ### Pré requisitos
 
