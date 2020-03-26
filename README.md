@@ -2,7 +2,7 @@
 
 Primeiramente obrigado por estar aqui! E querer trabalhar no Itaú Unibanco! 
 
-Esse é nosso primeiro desfio onde irmos avaliar sua lógica de programação e conhecimentos em Javascript. 
+Esse é nosso primeiro desfio onde iremos avaliar sua lógica de programação e conhecimentos em Javascript. 
 O método de avaliação é simples, tendo seu código em mãos iremos validar se você construiu o projeto atendendo ao cenário proposto e os requisitos.
 
 Boa sorte!
