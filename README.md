@@ -15,7 +15,7 @@ _A necessidade do nosso projeto é criar um consolidado de gastos por mês que f
 ### Requisitos
 
 * A lógica de consolidação dos meses deve ser feita em Javascript.
-* Essa logica deve ser executada no carregamento da página gerando uma tabela *mês X total gasto*.
+* Essa logica deve ser executada no carregamento da página gerando uma tabela *nome do mês X total gasto*.
 * Não é permitido usar nenhum framework para realizar realizar essa tarefa.
 * Os dados Consolidados devem ser apresentados em formato de tabela na mesma página html.
 * Só devem ser exibidos na tabela de gastos consolidados os meses em que houveram lançamentos.
