@@ -17,7 +17,7 @@ _A necessidade do nosso projeto é criar um consolidado de gastos por mês que f
 * A lógica de consolidação dos meses deve ser feita em Javascript.
 * Essa logica deve ser executada no carregamento da página gerando uma tabela *Mês|Total Gasto*.
 * O campo **Mês** deve ser exibido por escrito.
-* Não é permitido usar nenhum framework para realizar realizar essa tarefa.
+* Não é permitido usar nenhum framework para realizar essa tarefa.
 * Os dados consolidados devem ser apresentados em formato de tabela na mesma página html.
 * Só devem ser exibidos na tabela de gastos consolidados os meses em que houveram lançamentos.
 * Essa tarefa deve ser entregue em um repositório público no Gitlab, o link desse repositório deve ser enviado para marcele.barros@itau-unibanco.com.br
