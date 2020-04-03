@@ -20,7 +20,7 @@ _A necessidade do nosso projeto é criar um consolidado de gastos por mês que f
 * Não é permitido usar nenhum framework para realizar essa tarefa.
 * Os dados consolidados devem ser apresentados em formato de tabela na mesma página html.
 * Só devem ser exibidos na tabela de gastos consolidados os meses em que houveram lançamentos.
-* Essa tarefa deve ser entregue em um repositório público no Gitlab, o link desse repositório deve ser enviado para.
+* Essa tarefa deve ser entregue em um repositório público no Gitlab, o link desse repositório deve ser enviado para Felipe Marques Melo felipe.melo@itau-unibanco.com.br
 
 ### Bom Desempenho!
 
