@@ -22,6 +22,8 @@ _A necessidade do nosso projeto é criar um consolidado de gastos por mês que f
 * Só devem ser exibidos na tabela de gastos consolidados os meses em que houveram lançamentos.
 * Essa tarefa deve ser entregue em um repositório público no Gitlab, o link desse repositório deve ser enviado para Felipe Marques Melo felipe.melo@itau-unibanco.com.br com seu nome completo
 
+**ATENÇÃO:** _Após o envio do repositório para o e-mail descrito nos requisitos não serão aceitos novos commits, essa atividade deve ser enviada até 06/04/2020 10:00_
+
 ### Bom Desempenho!
 
 ### #QueremosVoceNoItau
