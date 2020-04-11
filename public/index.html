@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <table class="table" id="tb_fatura">
+    <table class="table" id="table_fatura">
         <thead>
             <tr>
                 <th scope="col">Lancamento</th>
@@ -19,7 +19,7 @@
                 <th scope="col">Mês de Lançamento</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody id="tbody_fatura">
             <tr>
                 <td>Uber</td>
                 <td>R$ 1430,00</td>
@@ -177,6 +177,18 @@
             </tr>
         </tbody>
     </table>
+
+    <table class="table" id="tb_consolidadoMes">
+        <thead>
+            <tr>
+                <th>Mês</th>
+                <th>Total Gasto</th>
+            </tr>
+        </thead>
+        <tbody id="tbody_consolidadoMes"></tbody>
+    </table>
 </body>
+
+<script src="/src/js/index.js"></script>
 
 </html>
